@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oasworgandm.github.io/sitemap.html
+Sitemap: https://oasworgandm.github.io/app/sitemap.html
+Sitemap: https://oasworgandm.github.io/assets/sitemap.html
+Sitemap: https://oasworgandm.github.io/css/sitemap.html
+Sitemap: https://oasworgandm.github.io/includes/sitemap.html
+Sitemap: https://oasworgandm.github.io/item/sitemap.html
+Sitemap: https://oasworgandm.github.io/src/sitemap.html
